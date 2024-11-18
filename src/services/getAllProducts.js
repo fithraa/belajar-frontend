@@ -51,7 +51,7 @@ export default function getAllProducts() {
         description: `Very cool sling bag. can store important items when walking around. this bag is lightweight and waterproof.`
       },
       {
-        id: 'NAF-1-07-FWOMEN-005',
+        id: 'NAF-1-07-FWOMEN-006',
         slug: 'nike-air-force-1-07-women',
         name: "Sling Bag",
         category: 'Women',
@@ -61,7 +61,7 @@ export default function getAllProducts() {
         description: `Very cool sling bag. can store important items when walking around. this bag is lightweight and waterproof.`
       },
       {
-        id: 'NAF-1-07-FWOMEN-005',
+        id: 'NAF-1-07-FWOMEN-007',
         slug: 'nike-air-force-1-07-women',
         name: "Sling Bag",
         category: 'Men-Women',
